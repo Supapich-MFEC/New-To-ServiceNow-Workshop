@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Information" max_length="40" name="x_mfecdemo3_cstm_app_information" sizeclass="0" type="collection"/>
+    <element extends="task" label="Information" max_length="40" name="x_mfec_cstm_app_information" sizeclass="0" type="collection"/>
 </database>

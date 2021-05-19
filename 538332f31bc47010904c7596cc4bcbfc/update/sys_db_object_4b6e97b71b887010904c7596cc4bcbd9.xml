@@ -13,7 +13,7 @@
         <is_extendable>false</is_extendable>
         <label>Sub Task</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_mfecdemo3_cstm_app_sub_task</name>
+        <name>x_mfec_cstm_app_sub_task</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
@@ -27,7 +27,7 @@
         <sys_id>4b6e97b71b887010904c7596cc4bcbd9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Cstm App Sub Task</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>sys_db_object_4b6e97b71b887010904c7596cc4bcbd9</sys_update_name>

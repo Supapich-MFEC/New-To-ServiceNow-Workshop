@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
     <sys_number action="INSERT_OR_UPDATE">
-        <category display_value="" name="x_mfecdemo3_cstm_app_information">x_mfecdemo3_cstm_app_information</category>
+        <category display_value="" name="x_mfec_cstm_app_information">x_mfec_cstm_app_information</category>
         <maximum_digits>7</maximum_digits>
         <number>1000</number>
         <prefix>INF</prefix>
@@ -10,7 +10,7 @@
         <sys_id>68cddb771b887010904c7596cc4bcb96</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>INF</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>sys_number_68cddb771b887010904c7596cc4bcb96</sys_update_name>

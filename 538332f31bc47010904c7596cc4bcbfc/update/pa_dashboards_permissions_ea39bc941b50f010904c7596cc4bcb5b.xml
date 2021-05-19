@@ -12,7 +12,7 @@
         <sys_id>ea39bc941b50f010904c7596cc4bcb5b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>pa_contributor</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>pa_dashboards_permissions_ea39bc941b50f010904c7596cc4bcb5b</sys_update_name>

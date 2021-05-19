@@ -71,13 +71,13 @@
         <sys_id>de504cc81b1c7010904c7596cc4bcb64</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Request Form</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>sc_cat_item_producer_de504cc81b1c7010904c7596cc4bcb64</sys_update_name>
         <sys_updated_by>supapich.pisutsin</sys_updated_by>
         <sys_updated_on>2021-05-18 12:01:03</sys_updated_on>
-        <table_name>x_mfecdemo3_cstm_app_information</table_name>
+        <table_name>x_mfec_cstm_app_information</table_name>
         <template/>
         <template_manager_roles/>
         <type>item</type>

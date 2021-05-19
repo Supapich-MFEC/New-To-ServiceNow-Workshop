@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_mfecdemo3_cstm_app_information">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_mfec_cstm_app_information">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -30,7 +30,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_mfecdemo3_cstm_app_information</name>
+        <name>x_mfec_cstm_app_information</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -50,11 +50,11 @@
         <sys_created_on>2021-05-18 07:18:00</sys_created_on>
         <sys_id>58cddb771b887010904c7596cc4bcb4c</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_mfecdemo3_cstm_app_information</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_name>x_mfec_cstm_app_information</sys_name>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
-        <sys_update_name>sys_dictionary_x_mfecdemo3_cstm_app_information_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_mfec_cstm_app_information_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2021-05-18 10:28:56</sys_updated_on>
         <table_reference>false</table_reference>

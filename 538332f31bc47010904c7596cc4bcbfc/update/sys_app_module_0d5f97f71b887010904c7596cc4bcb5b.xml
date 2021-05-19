@@ -12,7 +12,7 @@
         <map_page/>
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_mfecdemo3_cstm_app_sub_task</name>
+        <name>x_mfec_cstm_app_sub_task</name>
         <order>8</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -27,7 +27,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Create New</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>sys_app_module_0d5f97f71b887010904c7596cc4bcb5b</sys_update_name>

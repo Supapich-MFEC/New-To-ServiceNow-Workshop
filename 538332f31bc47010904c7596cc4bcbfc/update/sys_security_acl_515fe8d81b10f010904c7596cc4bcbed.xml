@@ -5,7 +5,7 @@
         <advanced>false</advanced>
         <condition/>
         <description/>
-        <name>x_mfecdemo3_cstm_app_information</name>
+        <name>x_mfec_cstm_app_information</name>
         <operation display_value="write">write</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
@@ -13,8 +13,8 @@
         <sys_created_on>2021-05-19 07:53:38</sys_created_on>
         <sys_id>515fe8d81b10f010904c7596cc4bcbed</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_mfecdemo3_cstm_app_information</sys_name>
-        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_name>x_mfec_cstm_app_information</sys_name>
+        <sys_package display_value="Custom Application" source="x_mfec_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
         <sys_update_name>sys_security_acl_515fe8d81b10f010904c7596cc4bcbed</sys_update_name>

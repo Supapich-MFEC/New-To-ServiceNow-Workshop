@@ -18,10 +18,10 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_mfecdemo3_cstm_app</scope>
+        <scope>x_mfec_cstm_app</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_mfecdemo3_cstm_app</source>
+        <source>x_mfec_cstm_app</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
