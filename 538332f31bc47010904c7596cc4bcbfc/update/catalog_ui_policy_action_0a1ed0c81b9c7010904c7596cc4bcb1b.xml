@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Request Form">de504cc81b1c7010904c7596cc4bcb64</catalog_item>
+        <catalog_variable>IO:42418c0c1b1c7010904c7596cc4bcb5a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>supapich.pisutsin</sys_created_by>
+        <sys_created_on>2021-05-18 11:59:12</sys_created_on>
+        <sys_id>0a1ed0c81b9c7010904c7596cc4bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Custom Application" source="x_mfecdemo3_cstm_app">538332f31bc47010904c7596cc4bcbfc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">538332f31bc47010904c7596cc4bcbfc</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0a1ed0c81b9c7010904c7596cc4bcb1b</sys_update_name>
+        <sys_updated_by>supapich.pisutsin</sys_updated_by>
+        <sys_updated_on>2021-05-18 11:59:12</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide Description Field When Confirmed.">49ed1c081b9c7010904c7596cc4bcb26</ui_policy>
+        <variable>description</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>
