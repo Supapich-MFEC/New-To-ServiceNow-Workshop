@@ -44,7 +44,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Supapich Pisutsin">bf7f70bf1b972010904c7596cc4bcba7</owner>
+        <owner display_value="Supapich Pisutsin">dd75015c1bd87010d58c98e8bc4bcb2c</owner>
         <picture/>
         <post_insert_script/>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=de504cc81b1c7010904c7596cc4bcb64&amp;sysparm_preview=true", "summary");</preview>

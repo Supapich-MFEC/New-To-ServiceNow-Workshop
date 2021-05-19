@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Sub Task" max_length="40" name="x_mfec_cstm_app_sub_task" sizeclass="0" type="collection"/>
-</database>
